@@ -4,7 +4,7 @@ layout: default
 
 <!--Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.-->
 
-[Link to gr00x's GitHub](https://medium.com/@g.Roox)
+[g.Roox no Medium](https://medium.com/@g.Roox)
 
 
 "Olá! Meu nome é [g.Roox] e estou me especializando em cibersegurança, bug bounty e hacking. Meu foco é identificar vulnerabilidades e contribuir para um ambiente digital mais seguro. Estou sempre estudando as técnicas para aprimorar minhas habilidades no campo da segurança da informação."
