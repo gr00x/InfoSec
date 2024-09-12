@@ -11,8 +11,7 @@ layout: default
 
 "Atualmente, dedico meu tempo a realizar testes de intrusão e participar de programas de bug bounty, onde posso colocar em prática meus conhecimentos e ajudar a corrigir falhas de segurança. Estou sempre em busca de novos desafios e oportunidades para expandir meu entendimento sobre sistemas e redes, com o objetivo de me tornar um especialista na área."
 
-## Estou no medium: 
-[g.Roox no Medium](https://medium.com/@g.Roox)  
+### Estou no medium: [g.Roox no Medium](https://medium.com/@g.Roox)  
 
 
 
