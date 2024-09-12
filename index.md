@@ -7,9 +7,7 @@ layout: default
 [Link to gr00x's GitHub](https://github.com/gr00x)
 
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+"Olá! Meu nome é [g.Roox] e estou me especializando em cibersegurança, bug bounty e hacking. Meu foco é identificar vulnerabilidades e contribuir para um ambiente digital mais seguro. Estou sempre estudando as técnicas para aprimorar minhas habilidades no campo da segurança da informação."
 
 # Header 1
 
