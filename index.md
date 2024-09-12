@@ -36,7 +36,7 @@ layout: default
 
 # ./Certificações e Cursos
 
-"Possuo certificações em cibersegurança que validam minhas habilidades, incluindo a Certificação de Ethical Hacker (CISCO) e cursos avançados de análise de vulnerabilidades e hacking ético. Além disso, estou me preparando para obter as certificações (CompTIA Security+) e (CCSP) com o objetivo de aprofundar meus conhecimentos em segurança da informação e, especialmente, em segurança na nuvem. Estou constantemente me atualizando e buscando novas certificações para acompanhar a evolução do campo."
+"Possuo certificações em cibersegurança que validam minhas habilidades, incluindo a Certificação de (Ethical Hacker - CISCO) e cursos avançados de análise de vulnerabilidades e hacking ético. Além disso, estou me preparando para obter as certificações (CompTIA Security+) e (CCSP) com o objetivo de aprofundar meus conhecimentos em segurança da informação e, especialmente, em segurança na nuvem. Estou constantemente me atualizando e buscando novas certificações para acompanhar a evolução do campo."
 
 "Participei de treinamentos práticos em pentesting e análise de malware, que me forneceram uma base sólida para realizar testes de segurança em diferentes cenários, desde aplicações web até infraestruturas em nuvem."
 
