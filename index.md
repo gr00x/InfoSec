@@ -9,9 +9,9 @@ layout: default
 
 "Olá! Meu nome é [g.Roox] e estou me especializando em cibersegurança, bug bounty e hacking. Meu foco é identificar vulnerabilidades e contribuir para um ambiente digital mais seguro. Estou sempre estudando as técnicas para aprimorar minhas habilidades no campo da segurança da informação."
 
-# Header 1
+<!--# Header 1-->
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+"Atualmente, dedico meu tempo a realizar testes de intrusão e participar de programas de bug bounty, onde posso colocar em prática meus conhecimentos e ajudar a corrigir falhas de segurança. Estou sempre em busca de novos desafios e oportunidades para expandir meu entendimento sobre sistemas e redes, com o objetivo de me tornar um especialista na área."
 
 ## Header 2
 
