@@ -5,6 +5,8 @@ layout: default
 <!--Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.-->
 ### Estou no medium: [g.Roox no Medium](https://medium.com/@g.Roox)  
 
+---
+
 # ./Apresentação pessoal
 
 "Oi! Eu sou o Grégori[g.Roox], e estou mergulhando cada vez mais fundo no mundo da cibersegurança, bug bounty e hacking. Meu objetivo é caçar vulnerabilidades e ajudar a tornar o ambiente digital mais seguro. Estou sempre de olho nas novas técnicas para evoluir minhas habilidades e me manter atualizado no que rola de mais recente em segurança da informação."
