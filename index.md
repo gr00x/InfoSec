@@ -2,9 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+<!--Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.-->
 
-[Link to another page](./another-page.html).
+[Link to gr00x's GitHub](https://github.com/gr00x)
+
 
 There should be whitespace between paragraphs.
 
