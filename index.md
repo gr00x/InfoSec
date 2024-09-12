@@ -60,3 +60,5 @@ layout: default
 - GitHub: [g.Roox no GitHub](https://github.com/g.Roox)
 - E-mail: g.roox@example.com
 
+<img src="/home/user01/Desktop/108099876.png" alt="Texto Alternativo">
+
