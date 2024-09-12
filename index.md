@@ -3,9 +3,6 @@ layout: default
 ---
 
 <!--Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.-->
-
-[g.Roox no Medium](https://medium.com/@g.Roox)  - Estou criando alguns artigos...
-
 # ./Apresentação pessoal
 
 "Olá! Meu nome é [g.Roox] e estou me especializando em cibersegurança, bug bounty e hacking. Meu foco é identificar vulnerabilidades e contribuir para um ambiente digital mais seguro. Estou sempre estudando as técnicas para aprimorar minhas habilidades no campo da segurança da informação."
@@ -13,6 +10,11 @@ layout: default
 <!--# Header 1-->
 
 "Atualmente, dedico meu tempo a realizar testes de intrusão e participar de programas de bug bounty, onde posso colocar em prática meus conhecimentos e ajudar a corrigir falhas de segurança. Estou sempre em busca de novos desafios e oportunidades para expandir meu entendimento sobre sistemas e redes, com o objetivo de me tornar um especialista na área."
+
+## Estou no medium: 
+[g.Roox no Medium](https://medium.com/@g.Roox)  
+
+
 
 ## Header 2
 
