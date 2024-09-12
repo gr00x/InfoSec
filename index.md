@@ -15,105 +15,45 @@ layout: default
 
 
 
-## Header 2
+# ./Projetos Recentes
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+"Tenho trabalhado em diversos projetos voltados para o teste de segurança de aplicações web, redes e sistemas operacionais. Um dos meus principais projetos foi a análise de segurança em uma aplicação web, onde identifiquei e relatei vulnerabilidades críticas, como injeções SQL e falhas de XSS. Além disso, colaborei em auditorias de segurança que garantiram a conformidade com boas práticas de segurança."
 
-### Header 3
+"Outro projeto de destaque foi minha participação em um CTF (Capture the Flag) onde consegui explorar vulnerabilidades avançadas em sistemas, aplicando técnicas de engenharia reversa e exploração de buffer overflow. Esse projeto foi um dos mais desafiadores e me permitiu aprofundar no entendimento de explorações de baixo nível."
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# ./Ferramentas e Tecnologias
 
-#### Header 4
+"Utilizo uma variedade de ferramentas em meus projetos, como Nmap, Burp Suite, Hydra, Metasploit, entre outras. Essas ferramentas me permitem realizar testes de penetração abrangentes, identificar falhas e ajudar no desenvolvimento de soluções seguras para as empresas."
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+"Além disso, tenho domínio de scripts personalizados em Python e Bash para automatizar testes de segurança e coleta de informações, o que facilita a análise de grandes volumes de dados em auditorias e pentests."
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# ./Certificações e Cursos
 
-###### Header 6
+"Possuo certificações em cibersegurança que validam minhas habilidades, incluindo a Certificação de Ethical Hacker (CEH) e cursos avançados de análise de vulnerabilidades e hacking ético. Estou constantemente me atualizando e buscando novas certificações para acompanhar a evolução do campo."
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+"Participei de treinamentos práticos em pentesting e análise de malware, que me forneceram uma base sólida para realizar testes de segurança em diferentes cenários, desde aplicações web até infraestruturas em nuvem."
 
-### There's a horizontal rule below this.
+---
 
-* * *
+# ./Reconhecimentos
 
-### Here is an unordered list:
+"Fui reconhecido em programas de bug bounty de grandes empresas por identificar vulnerabilidades críticas que poderiam ter sido exploradas por atacantes mal-intencionados. Esses reconhecimentos reforçam meu compromisso com a segurança e meu desejo de contribuir para um ambiente digital mais seguro."
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+"Meus relatórios técnicos são detalhados e fornecem soluções viáveis para mitigar as vulnerabilidades identificadas, sempre prezando pela qualidade da comunicação com as equipes de desenvolvimento e segurança."
 
-### And an ordered list:
+---
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+# ./Contato
 
-### And a nested list:
+"Se você deseja discutir projetos, colaborações ou apenas trocar ideias sobre cibersegurança, fique à vontade para entrar em contato através das minhas redes sociais ou por e-mail. Estou sempre aberto a novas oportunidades e desafios."
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- LinkedIn: [g.Roox no LinkedIn](https://linkedin.com/in/g.Roox)
+- GitHub: [g.Roox no GitHub](https://github.com/g.Roox)
+- E-mail: g.roox@example.com
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
