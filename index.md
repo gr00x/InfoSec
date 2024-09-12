@@ -4,7 +4,7 @@ layout: default
 
 <!--Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.-->
 
-[g.Roox no Medium](https://medium.com/@g.Roox)
+[g.Roox no Medium](https://medium.com/@g.Roox)  - Estou criando alguns artigos...
 
 # ./Apresentação pessoal
 
