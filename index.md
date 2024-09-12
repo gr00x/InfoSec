@@ -53,10 +53,3 @@ layout: default
 - GitHub: [g.Roox no GitHub](https://github.com/g.Roox)
 - E-mail: g.roox@example.com
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
