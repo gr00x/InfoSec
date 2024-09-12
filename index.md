@@ -3,6 +3,8 @@ layout: default
 ---
 
 <!--Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.-->
+### Estou no medium: [g.Roox no Medium](https://medium.com/@g.Roox)  
+
 # ./Apresentação pessoal
 
 "Oi! Eu sou o Grégori[g.Roox], e estou mergulhando cada vez mais fundo no mundo da cibersegurança, bug bounty e hacking. Meu objetivo é caçar vulnerabilidades e ajudar a tornar o ambiente digital mais seguro. Estou sempre de olho nas novas técnicas para evoluir minhas habilidades e me manter atualizado no que rola de mais recente em segurança da informação."
@@ -10,7 +12,7 @@ layout: default
 "Hoje em dia, meu foco está em realizar testes de intrusão e participar de programas de bug bounty, onde posso usar na prática o que aprendo e ajudar a corrigir brechas de segurança. Também estou me preparando para seguir carreira em segurança na nuvem, que é uma das áreas mais promissoras da cibersegurança. Sempre estou em busca de desafios novos e oportunidades que me permitam entender ainda mais sobre sistemas e redes, com o objetivo de me tornar referência na área."
 
 
-### Estou no medium: [g.Roox no Medium](https://medium.com/@g.Roox)  
+
 
 
 
