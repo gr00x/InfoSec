@@ -3,9 +3,9 @@ layout: default
 ---
 
 <!--Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.-->
-### Estou no medium: [g.Roox no Medium](https://medium.com/@g.Roox)  
+  
 
----
+
 
 # ./Apresentação pessoal
 
@@ -53,6 +53,8 @@ layout: default
 # ./Contato
 
 "Se você deseja discutir projetos, colaborações ou apenas trocar ideias sobre cibersegurança, fique à vontade para entrar em contato através das minhas redes sociais ou por e-mail. Estou sempre aberto a novas oportunidades e desafios."
+
+### Estou no medium: [g.Roox no Medium](https://medium.com/@g.Roox)
 
 - LinkedIn: [g.Roox no LinkedIn](https://linkedin.com/in/g.Roox)
 - GitHub: [g.Roox no GitHub](https://github.com/g.Roox)
